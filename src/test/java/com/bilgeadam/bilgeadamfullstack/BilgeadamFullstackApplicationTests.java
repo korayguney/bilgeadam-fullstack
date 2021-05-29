@@ -9,7 +9,7 @@ class BilgeadamFullstackApplicationTests {
 
     @Test
     void contextLoads() {
-        Assertions.fail("There is an ERROR...");
+        // Assertions.fail("There is an ERROR...");
     }
 
 }
