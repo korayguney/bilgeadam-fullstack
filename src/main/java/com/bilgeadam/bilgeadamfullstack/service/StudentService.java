@@ -19,6 +19,7 @@ public class StudentService {
         return studentRepository.findAll();
     }
 
+    // adds student
     public void addStudent(Student student) {
         boolean isExists = studentRepository.selectExistsEmail(student.getEmail());
         if(isExists){
