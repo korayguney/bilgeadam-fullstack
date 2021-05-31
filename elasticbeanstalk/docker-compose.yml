@@ -1,7 +1,7 @@
 version: "3.8"
 services:
   backend:
-    image: "korayguney/bilgeadam-fullstack:31.5.2021.13.22.55"
+    image: "korayguney/bilgeadam-fullstack:31.5.2021.13.31.24"
     ports:
       - "80:8080"
     restart: "always"
