@@ -1,4 +1,4 @@
-![Bilgeadam-CICD](https://github.com/github/docs/actions/workflows/deploy.yml/badge.svg?branch=master)
+![Bilgeadam-CICD](https://github.com/korayguney/bilgeadam-fullstack/actions/workflows/deploy.yml/badge.svg?branch=master)
 
 # Bilgeadam Fullstack Project with Spring Boot, React, Docker, JIB, Github Actions, AWS and PostgreSQL
 
