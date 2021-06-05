@@ -1,3 +1,5 @@
+![Bilgeadam-CICD](https://github.com/github/docs/actions/workflows/deploy.yml/badge.svg)
+
 # Bilgeadam Fullstack Project with Spring Boot, React, Docker, JIB, Github Actions, AWS and PostgreSQL
 
 ## Commands Guide
